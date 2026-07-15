@@ -1,0 +1,24 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "This is my first one app on server called calculator.",
+  "keywords": [
+    "Calculator"
+  ],
+  "homepage": "https://github.com/spiralbaba/Gui-Calculator#readme",
+  "bugs": {
+    "url": "https://github.com/spiralbaba/Gui-Calculator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiralbaba/Gui-Calculator.git"
+  },
+  "license": "ISC",
+  "author": "SpiralBaba",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
