@@ -1,7 +1,7 @@
 const http = require("http");
 const fs = require("fs");
 const path = require("path");
-
+// creating a node server for this application
 const server = http.createServer((req, res) => {
 
     let filePath = "." + req.url;
